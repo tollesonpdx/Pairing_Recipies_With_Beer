@@ -1,0 +1,13 @@
+   relname   | rowcount 
+-------------+----------
+ recipes     |    44660
+ categories  |       12
+ tags        |   221783
+ pairings    |    82982
+ breweries   |     1414
+ styles      |      142
+ locations   |     1303
+ ingredients |   191178
+ beers       |    16989
+(9 rows)
+
